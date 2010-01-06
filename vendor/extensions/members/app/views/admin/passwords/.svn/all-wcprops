@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/app/views/admin/passwords
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/app/views/admin/passwords/new.html.erb
+END
+reset.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/app/views/admin/passwords/reset.html.erb
+END

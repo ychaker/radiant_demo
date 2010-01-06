@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con
+END
+session_classes_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/session_classes_controller_spec.rb
+END
+presentation_capacities_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/presentation_capacities_controller_spec.rb
+END
+sponors_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/sponors_controller_spec.rb
+END
+activities_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/activities_controller_spec.rb
+END
+capacities_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/capacities_controller_spec.rb
+END
+venues_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/venues_controller_spec.rb
+END
+session_types_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/session_types_controller_spec.rb
+END
+conference_roles_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/conference_roles_controller_spec.rb
+END
+submissions_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/submissions_controller_spec.rb
+END
+sponsor_classes_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/sponsor_classes_controller_spec.rb
+END
+roles_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/roles_controller_spec.rb
+END
+people_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/people_controller_spec.rb
+END
+scheduled_sessions_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/scheduled_sessions_controller_spec.rb
+END
+organizations_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/organizations_controller_spec.rb
+END
+dashboard_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/dashboard_controller_spec.rb
+END
+sponsor_types_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/sponsor_types_controller_spec.rb
+END
+tracks_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/tracks_controller_spec.rb
+END
+presenters_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/presenters_controller_spec.rb
+END
+locations_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/locations_controller_spec.rb
+END
+schedule_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/schedule_controller_spec.rb
+END
+presentations_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/presentations_controller_spec.rb
+END
+presentation_types_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/admin/con/presentation_types_controller_spec.rb
+END

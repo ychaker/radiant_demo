@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions
+END
+action_controller_rendering.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/action_controller_rendering.rb
+END
+array.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/array.rb
+END
+component_response_with_namespacing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/component_response_with_namespacing.rb
+END
+to_label.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/to_label.rb
+END
+localize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/localize.rb
+END
+unsaved_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/unsaved_record.rb
+END
+action_view_rendering.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/action_view_rendering.rb
+END
+unsaved_associated.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/unsaved_associated.rb
+END
+generic_view_paths.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/generic_view_paths.rb
+END
+usa_state.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/usa_state.rb
+END
+nil_id_in_url_params.rb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/nil_id_in_url_params.rb
+END
+name_option_for_datetime.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/name_option_for_datetime.rb
+END
+resources.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/resources.rb
+END
+reverse_associations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/extensions/reverse_associations.rb
+END

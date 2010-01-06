@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/832281/labs/consite/trunk/conferences/lib
+END
+conference_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/lib/conference_generator.rb
+END
+session_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/lib/session_tags.rb
+END
+acts_as_cache_clearing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/lib/acts_as_cache_clearing.rb
+END
+conference_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/lib/conference_tags.rb
+END
+speaker_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/lib/speaker_tags.rb
+END
+schedule_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/832281/labs/consite/trunk/conferences/lib/schedule_tags.rb
+END

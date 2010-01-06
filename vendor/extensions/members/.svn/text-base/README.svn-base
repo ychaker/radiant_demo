@@ -1,0 +1,76 @@
+
+  Apache Labs:  Radiant 'Members' Extension
+=============================================
+
+Updated to work with Radiant 0.8.0
+
+
+Enhances the Radiant users model for use as a site-wide members
+feature.  It makes the following changes:
+
+The User model now has a:
+
+- photo  (file_column)
+- url
+
+The `User#login` field is replaced with the `User#email` field on
+validation.  Users are expected to login with their email address
+instead of another login username.
+
+A new `Profile` tab is added.  This becomes the default tab on login.
+A new Snippet named `profile_sidebar` is created which can be used to
+modify the profile page.
+
+All tabs except for Profile now default to require :developer or
+:admin role access.  This includes the Page and Snippets tabs.
+
+A new registration form will be created at:
+
+    /admin/members/new
+
+A password recovery form is added at:
+
+   /admin/forgot_password
+
+
+
+INSTALL
+-------
+
+To install:
+
+   ./script/extension install members
+
+Or
+
+   svn co https://svn.apache.org/repos/asf/labs/consite/trunk/members vendor/extensions/members
+   rake radiant:extensions:members:migrate
+   rake radiant:extensions:members:update
+
+The extension includes a copy of the file_column plugin.
+
+Be sure to change the hard coded links and site name in the forgot
+password mailer.  See:
+
+    app/models/password_mailer.rb
+    app/views/password_mailer/*.erb
+
+If you want to use the password mailers, you'll need to activate
+ActionMailer in your `config/environments.rb` and setup ActionMailer
+as needed.
+
+
+
+TODO
+----
+
+There's *lots* still to be done, including:
+
+ - Linking to the registration page on the login page
+ - Registration email confirmation
+ - Admin registration moderation
+ - RSpec tests
+
+For questions and suggestions contact Aaron Farr at 
+`farra [at] apache [dot] org`
+

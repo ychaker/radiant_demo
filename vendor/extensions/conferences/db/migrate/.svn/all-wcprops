@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/db/migrate
+END
+033_migrate_people.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/033_migrate_people.rb
+END
+022_create_presentations_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/022_create_presentations_tags.rb
+END
+021_create_submissions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/021_create_submissions.rb
+END
+027_create_panel_members.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/027_create_panel_members.rb
+END
+035_add_submission_notification_to_conference.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/035_add_submission_notification_to_conference.rb
+END
+032_refactor_times.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/032_refactor_times.rb
+END
+011_create_sponsors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/011_create_sponsors.rb
+END
+012_create_organizations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/012_create_organizations.rb
+END
+001_create_conferences.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/001_create_conferences.rb
+END
+002_create_locations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/002_create_locations.rb
+END
+016_create_scheduled_sessions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/016_create_scheduled_sessions.rb
+END
+025_acts_as_taggable_migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/025_acts_as_taggable_migration.rb
+END
+019_create_tracks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/019_create_tracks.rb
+END
+020_create_presentation_capacities.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/020_create_presentation_capacities.rb
+END
+014_create_presentations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/014_create_presentations.rb
+END
+018_create_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/018_create_tags.rb
+END
+028_refactor_schedule.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/028_refactor_schedule.rb
+END
+006_create_capacities.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/006_create_capacities.rb
+END
+029_create_activities.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/029_create_activities.rb
+END
+023_refactor_tables.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/023_refactor_tables.rb
+END
+008_update_conferences.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/008_update_conferences.rb
+END
+017_create_tags_presentations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/017_create_tags_presentations.rb
+END
+037_create_emails.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/037_create_emails.rb
+END
+034_remove_people.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/db/migrate/034_remove_people.rb
+END
+004_create_people.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/004_create_people.rb
+END
+010_create_sponsor_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/010_create_sponsor_types.rb
+END
+009_create_sponsor_classes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/009_create_sponsor_classes.rb
+END
+031_refactor_roles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/776447/labs/consite/trunk/conferences/db/migrate/031_refactor_roles.rb
+END
+024_initialize_global_configuration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/024_initialize_global_configuration.rb
+END
+007_create_roles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/007_create_roles.rb
+END
+036_add_agreement_form_received_to_submissions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/036_add_agreement_form_received_to_submissions.rb
+END
+015_create_presenters.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/015_create_presenters.rb
+END
+013_create_presentation_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/013_create_presentation_types.rb
+END
+030_refactor_panel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/030_refactor_panel.rb
+END
+026_refactor_conferences.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/026_refactor_conferences.rb
+END
+003_create_venues.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/003_create_venues.rb
+END
+005_update_people.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/db/migrate/005_update_people.rb
+END

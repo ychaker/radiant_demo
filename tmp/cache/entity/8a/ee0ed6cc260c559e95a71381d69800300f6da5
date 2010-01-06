@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>Home Page</title>
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+		<script type="text/javascript" src="http://www.jeroenwijering.com/embed/swfobject.js"></script>
+		<script type="text/javascript" src="/javascripts/prototype.js"></script>
+		<script type="text/javascript" src="/javascripts/scriptaculous.js?load=effects,builder"></script>
+		<script type="text/javascript" src="/javascripts/lightbox.js"></script>
+  </head>
+  <body>
+    <div id="top"><a href="#content">Skip to content</a></div>
+    <div id="wrapper">
+			<div id="header">
+				<!--Header Image-->
+<a href="/"><img src="/images/nvc/header_2.jpg" alt="The 6th Annual NATIONAL VETERAN Small Business Conference &amp; Expo"/></a>
+
+			</div>
+
+			<div id="aside">
+				<div id="nav_left">
+					<ul>
+  <li class="active active-trail"><a href="/">Home</a></li>
+</ul>
+				</div>
+					<img src="/images/nvc/medal.jpg" alt="Medal of Valor image" />
+			</div><!-- #aside -->
+
+			<div id="content">
+				<div id="intro">
+					<h2>Home Page</h2>
+					
+            <p>Welcome to the 5th Annual National Veteran Small Business Post Conference Website.</p>
+<p><strong style="color:#af1d20">NEW!</strong> <a href="/agenda#BUSINESS_DEVELOPMENT_CENTER_PRESENTATIONS" style="color:#003366;">Business Development Center presentations</a> now available!</p>
+
+          
+				</div><!-- #intro -->
+
+				<div id="content_main">
+					<p>Welcome to the 5th Annual National Veteran Small Business Post Conference Website.</p>
+<p><strong style="color:#af1d20">NEW!</strong> <a href="/agenda#BUSINESS_DEVELOPMENT_CENTER_PRESENTATIONS" style="color:#003366;">Business Development Center presentations</a> now available!</p>
+
+				</div><!-- #content_main -->
+			</div><!-- #content -->
+
+			<div id="footer">
+				<ul>
+  <li class="active active-trail"><a href="/">Home</a></li>
+</ul>
+			</div>
+    </div>
+  </body>
+</html>

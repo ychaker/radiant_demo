@@ -1,0 +1,19 @@
+
+<h1> Forgot Your Password? </h1>
+
+<% form_for [:admin, @password] do |f| %>
+  <%= f.error_messages %>
+	<fieldset>
+		<legend>Enter Your Email Address</legend>
+		<ol>
+			<li>			
+		    <%= f.label :email %>
+		    <%= f.text_field :email %>
+			</li>
+		</ol>
+	</fieldset>
+	<div class="buttons">
+        <%= submit_tag "Submit" %>
+	</div>
+<% end %>
+

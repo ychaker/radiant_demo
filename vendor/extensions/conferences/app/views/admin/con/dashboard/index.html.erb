@@ -1,0 +1,129 @@
+
+<%
+  if @current_conference
+     con_id = @current_conference.id
+     table_class = " "
+  else
+     con_id = -1
+     table_class = "disabled"
+  end
+%>
+
+<style>
+  .disabled {
+     color:#cccccc;
+   }
+   .disabled a {
+     color:#cccccc;
+   }
+</style>
+
+<% if @current_conference %>
+<table class="index <%= table_class %>">
+  <thead>
+    <tr>
+     <th>Manage</th>
+     <th>Description</th>
+    </tr>
+  </thead>
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Conference Details", edit_admin_con_conference_path(:id => @current_conference.id) %></td>
+   <td class="">Edit conference details such as dates, venue and short description.</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Tracks", admin_con_conference_tracks_path(:conference_id => @current_conference.id)  %></td>
+   <td class="">Define conference tracks.  Tracks have a date and a location at the venue.</td>
+  </tr>
+
+
+  <tr class="level-0 no-children node">
+    <td class="page"><%= link_to "Submissions", admin_con_conference_submissions_path(:conference_id => @current_conference.id)  %></td>
+   <td class="">Review all presentation submissions for this conference.</td>
+  </tr>
+
+<!--  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Schedule", admin_con_conference_scheduled_sessions_path(:conference_id => @current_conference.id)  %></td>
+   <td class="">Manage the scheduled conference sessions.</td>
+  </tr>
+-->
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Activities", admin_con_conference_activities_path(:conference_id => @current_conference.id) %></td>
+   <td class="">Schedule special activities (breaks, BoFs, keynotes...).</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Speakers", admin_con_conference_speakers_path(:conference_id => @current_conference.id)  %></td>
+   <td class="">Manage speakers for this conference.</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Sponsors", admin_con_conference_sponsors_path(:conference_id => @current_conference.id)  %></td>
+   <td class="">Manage conference sponsor list.</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Help", :action => 'help', :id => @current_conference.id  %></td>
+   <td class="">Instructions.</td>
+  </tr>
+
+</table>
+
+<% end %>
+
+
+<h4 style="padding-top:40px;">Global Configuration</h4>
+
+<table class="index">
+  <thead>
+    <tr>
+     <th>Manage</th>
+     <th>Description</th>
+    </tr>
+  </thead>
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Venues", admin_con_venues_path %></td>
+   <td class="">Edit venue addresses and room names.</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Presentation Types", admin_con_presentation_types_path %></td>
+   <td class="">Define the types of sessions for any conference.</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Sponsor Types", admin_con_sponsor_types_path %></td>
+   <td class="">Define the type of sponsors for any conference</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "Sponsor Levels", admin_con_sponsor_levels_path %></td>
+   <td class="">Define the sponsor classes (i.e.- ranks) for any conference</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "All User Accounts", admin_con_users_path %></td>
+   <td class="">Browse and manage all user accounts and speaker information for all conferences.</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "All Organizations", admin_con_organizations_path %></td>
+   <td class="">Edit all sponsorship organizations.</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "All Presentations", admin_con_presentations_path  %></td>
+   <td class="">Browse all presentations for any conference.</td>
+  </tr>
+
+  <tr class="level-0 no-children node">
+   <td class="page"><%= link_to "All Conferences", admin_con_conferences_path %></td>
+   <td class="">Browse all conferences.</td>
+  </tr>
+
+</table>
+
+
+
+

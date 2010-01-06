@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/vendor/plugins/file_column
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/Rakefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/.gitignore
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/TODO
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/init.rb
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/CHANGELOG
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/install.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/README
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers
+END
+association_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers/association_helpers.rb
+END
+id_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers/id_helpers.rb
+END
+show_column_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers/show_column_helpers.rb
+END
+form_column_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers/form_column_helpers.rb
+END
+search_column_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers/search_column_helpers.rb
+END
+controller_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers/controller_helpers.rb
+END
+country_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers/country_helpers.rb
+END
+list_column_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers/list_column_helpers.rb
+END
+pagination_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers/pagination_helpers.rb
+END
+view_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/helpers/view_helpers.rb
+END

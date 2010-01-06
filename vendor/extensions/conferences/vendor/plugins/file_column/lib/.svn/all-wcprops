@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/vendor/plugins/file_column/lib
+END
+validations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/lib/validations.rb
+END
+file_compat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/lib/file_compat.rb
+END
+rails_file_column.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/lib/rails_file_column.rb
+END
+magick_file_column.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/lib/magick_file_column.rb
+END
+test_case.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/lib/test_case.rb
+END
+file_column_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/vendor/plugins/file_column/lib/file_column_helper.rb
+END
+file_column.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/lib/file_column.rb
+END

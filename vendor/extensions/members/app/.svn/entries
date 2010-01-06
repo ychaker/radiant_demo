@@ -1,0 +1,40 @@
+9
+
+dir
+896310
+http://svn.apache.org/repos/asf/labs/consite/trunk/members/app
+http://svn.apache.org/repos/asf
+
+
+
+2009-08-31T10:43:14.289989Z
+809534
+farra
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+helpers
+dir
+
+models
+dir
+
+controllers
+dir
+
+views
+dir
+

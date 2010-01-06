@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/app/views/admin/con/dashboard
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/app/views/admin/con/dashboard/index.html.erb
+END
+help.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/views/admin/con/dashboard/help.html.erb
+END

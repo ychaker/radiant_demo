@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config
+END
+subform.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/subform.rb
+END
+show.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/show.rb
+END
+delete.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/delete.rb
+END
+nested.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/nested.rb
+END
+update.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/update.rb
+END
+create.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/create.rb
+END
+form.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/form.rb
+END
+live_search.rb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/live_search.rb
+END
+search.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/search.rb
+END
+core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/core.rb
+END
+field_search.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/field_search.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/base.rb
+END
+list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/lib/active_scaffold/config/list.rb
+END

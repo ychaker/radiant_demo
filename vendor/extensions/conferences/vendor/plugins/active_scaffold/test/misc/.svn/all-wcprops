@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/test/misc
+END
+configurable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/test/misc/configurable_test.rb
+END
+lang_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/test/misc/lang_test.rb
+END
+active_record_permissions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/test/misc/active_record_permissions.rb
+END
+constraints_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/test/misc/constraints_test.rb
+END
+finder_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/test/misc/finder_test.rb
+END

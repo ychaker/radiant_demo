@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/832281/labs/consite/trunk/conferences
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/809384/labs/consite/trunk/conferences/LICENSE
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/Rakefile
+END
+conferences_extension.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/809660/labs/consite/trunk/conferences/conferences_extension.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/809660/labs/consite/trunk/conferences/README
+END

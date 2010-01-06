@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/809372/labs/consite/trunk/conferences/vendor/plugins/active_scaffold
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/Rakefile
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/init.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/environment.rb
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/CHANGELOG
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/install.rb
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/MIT-LICENSE
+END
+install_assets.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/install_assets.rb
+END
+uninstall.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/uninstall.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/active_scaffold/README
+END

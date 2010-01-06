@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/809534/labs/consite/trunk/members/app/views/admin/members
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/app/views/admin/members/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/app/views/admin/members/index.html.erb
+END
+login.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/809534/labs/consite/trunk/members/app/views/admin/members/login.html.haml
+END
+new.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/app/views/admin/members/new.html.haml
+END

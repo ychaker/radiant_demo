@@ -1,0 +1,33 @@
+- form_for(@email,:url => {:controller => 'admin/con/conference_roles', :action => 'email'}) do |f|
+
+  %div{:class => 'form-area'}
+    %h2 Compose Email
+
+    %p{:class => 'title'}
+      %label To
+      = select 'email', 'recipient', @email.recipients.collect {|r| [r,r]}
+
+    %br
+
+    %p{:class => 'title'}
+      %label Subject
+      = f.text_field 'subject', :class=> 'textbox'
+
+    %br
+
+    #tab-control
+      #tabs{:class=>'tabs'}
+        %a{:href=>'#', :class=>'tab here'}
+          %span Body
+      #pages{:class=>'pages'}
+        #page-1{:class=>'page'}
+          #part-1{:class=>'part'}
+            %div
+              = f.text_area 'body', :style => 'width:100%;', :class=>'textarea'
+
+
+  %p{:class=>'buttons'}
+    = f.hidden_field 'conference_id'
+    %input{:type=>'button', :class=>'submit', :value=>'Send'}
+    or
+    %a{ :href=>"#"} Cancel

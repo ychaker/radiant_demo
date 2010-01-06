@@ -1,0 +1,13 @@
+pt:
+  file_column:
+    validations:
+      file:
+        invalid_format : não está num formato válido.
+        too_small      : é menor que o tamanho permitido.
+        too_large      : é maior que o tamanho permitido.
+      image:
+        too_narrow     : é muito estreita, deve ter ao menos {{length}}px.
+        too_short      : é muito baixa, deve ter ao menos {{length}}px.
+        too_wide       : é muito larga, deve ter no máximo {{length}}px.
+        too_tall       : é muito alta, deve ter no máximo {{length}}px.
+        ivalid_image   : imagem inválida.

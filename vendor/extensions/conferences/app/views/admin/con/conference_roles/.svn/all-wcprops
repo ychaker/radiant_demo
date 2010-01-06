@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/views/admin/con/conference_roles
+END
+compose.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/views/admin/con/conference_roles/compose.html.haml
+END
+report.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/views/admin/con/conference_roles/report.html.haml
+END

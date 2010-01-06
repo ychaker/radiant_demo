@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/app/models
+END
+session_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/session_page.rb
+END
+sponsors_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/sponsors_page.rb
+END
+venue.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/venue.rb
+END
+schedule_day_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/schedule_day_page.rb
+END
+panel_member.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/panel_member.rb
+END
+speaker_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/speaker_page.rb
+END
+email.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/email.rb
+END
+schedule_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/schedule_page.rb
+END
+conference_role.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/conference_role.rb
+END
+sponsor_level.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/sponsor_level.rb
+END
+submission_notifier.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/submission_notifier.rb
+END
+submission.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/submission.rb
+END
+activity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/app/models/activity.rb
+END
+presenter_mailer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/presenter_mailer.rb
+END
+sponsor_type_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/sponsor_type_page.rb
+END
+sessions_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/sessions_page.rb
+END
+scheduled_session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/app/models/scheduled_session.rb
+END
+sponsor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/sponsor.rb
+END
+organization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/organization.rb
+END
+sponsor_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/sponsor_type.rb
+END
+track.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/track.rb
+END
+person.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/person.rb
+END
+conference.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/conference.rb
+END
+location.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/location.rb
+END
+speakers_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/speakers_page.rb
+END
+presentation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/presentation.rb
+END
+presentation_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/models/presentation_type.rb
+END

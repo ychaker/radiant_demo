@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/823217/labs/consite/trunk/conferences/app/controllers/admin/con
+END
+conference_roles_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/823217/labs/consite/trunk/conferences/app/controllers/admin/con/conference_roles_controller.rb
+END
+.scheduled_sessions_controller.rb.swp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/.scheduled_sessions_controller.rb.swp
+END
+sponsor_levels_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/sponsor_levels_controller.rb
+END
+speakers_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/speakers_controller.rb
+END
+submissions_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/823217/labs/consite/trunk/conferences/app/controllers/admin/con/submissions_controller.rb
+END
+scheduled_sessions_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/app/controllers/admin/con/scheduled_sessions_controller.rb
+END
+sponsors_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/sponsors_controller.rb
+END
+organizations_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/organizations_controller.rb
+END
+dashboard_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/app/controllers/admin/con/dashboard_controller.rb
+END
+sponsor_types_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/sponsor_types_controller.rb
+END
+tracks_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/tracks_controller.rb
+END
+conferences_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/conferences_controller.rb
+END
+locations_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/locations_controller.rb
+END
+presentations_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/presentations_controller.rb
+END
+presentation_types_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/presentation_types_controller.rb
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/users_controller.rb
+END
+activities_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/809497/labs/consite/trunk/conferences/app/controllers/admin/con/activities_controller.rb
+END
+venues_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/venues_controller.rb
+END
+session_types_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/session_types_controller.rb
+END
+cfp_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/cfp_controller.rb
+END
+panel_members_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/controllers/admin/con/panel_members_controller.rb
+END
+current_conference_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/809472/labs/consite/trunk/conferences/app/controllers/admin/con/current_conference_controller.rb
+END

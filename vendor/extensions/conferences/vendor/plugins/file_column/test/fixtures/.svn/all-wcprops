@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/test/fixtures
+END
+kerb.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/test/fixtures/kerb.jpg
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/test/fixtures/schema.rb
+END
+entry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/test/fixtures/entry.rb
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/test/fixtures/mysql.sql
+END
+invalid-image.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/test/fixtures/invalid-image.jpg
+END
+skanthak.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/809371/labs/consite/trunk/conferences/vendor/plugins/file_column/test/fixtures/skanthak.png
+END

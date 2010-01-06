@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/helpers
+END
+dashboard_helper_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/helpers/dashboard_helper_spec.rb
+END
+conference_roles_helper_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/helpers/conference_roles_helper_spec.rb
+END

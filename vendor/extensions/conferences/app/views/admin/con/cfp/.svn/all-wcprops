@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/views/admin/con/cfp
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/views/admin/con/cfp/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/views/admin/con/cfp/index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/views/admin/con/cfp/new.html.erb
+END
+_presentation.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/views/admin/con/cfp/_presentation.html.erb
+END
+_submission.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/views/admin/con/cfp/_submission.html.erb
+END

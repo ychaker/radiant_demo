@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/809384/labs/consite/trunk/conferences/app/helpers/admin/con
+END
+submissions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/submissions_helper.rb
+END
+sponsor_classes_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/sponsor_classes_helper.rb
+END
+roles_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/roles_helper.rb
+END
+people_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/people_helper.rb
+END
+scheduled_sessions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/scheduled_sessions_helper.rb
+END
+sponsors_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/sponsors_helper.rb
+END
+organizations_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/organizations_helper.rb
+END
+dashboard_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/dashboard_helper.rb
+END
+sponsor_types_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/sponsor_types_helper.rb
+END
+tracks_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/tracks_helper.rb
+END
+conferences_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/809384/labs/consite/trunk/conferences/app/helpers/admin/con/conferences_helper.rb
+END
+locations_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/locations_helper.rb
+END
+schedule_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/schedule_helper.rb
+END
+presentations_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/presentations_helper.rb
+END
+presentation_types_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/presentation_types_helper.rb
+END
+description_column_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/description_column_helper.rb
+END
+activities_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/activities_helper.rb
+END
+venues_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/venues_helper.rb
+END
+cfp_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/cfp_helper.rb
+END
+conference_roles_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/conference_roles_helper.rb
+END
+time_column_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/time_column_helper.rb
+END
+speakers_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/app/helpers/admin/con/speakers_helper.rb
+END

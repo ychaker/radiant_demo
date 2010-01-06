@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/app/views/password_mailer
+END
+forgot_password.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/app/views/password_mailer/forgot_password.html.erb
+END
+reset_password.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/app/views/password_mailer/reset_password.html.erb
+END

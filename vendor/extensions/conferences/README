@@ -1,0 +1,54 @@
+
+ Apache Labs: Radiant 'Conferences' Extension
+==============================================
+
+This extension for the Radiant CMS includes models, forms and tags for
+managing a multi-track conference website.  It was originally written
+to support ApacheCon and may still contain several ApacheCon specific
+
+## Conference Model ##
+
+ A Conference has one Venue with one or more Locations and one or more
+ Tracks associated with a Location.  Users create Presentations which
+ are submitted as Submissions to a Conference.  Submissions can then
+ be approved and scheduled, becoming Scheduled Sessions associated
+ with a Track in the Conference.  Activities are scheduled events
+ associated with a Conference (and optionally a Track) that may have
+ no associated User (such as a lunch or break).  Finally,
+ Organizations can become Sponsors of a Conference.
+
+
+ INSTALL
+---------
+
+  ./script/extension install conferences
+
+or 
+
+   svn co https://svn.apache.org/repos/asf/labs/consite/trunk/conferences vendor/extensions/conferences
+   rake radiant:extensions:conferences:migrate
+   rake radiant:extensions:conferences:update
+
+The update task will copy a version of the 'active_scaffold' plugin
+into your root vendor/plugins directory.  This is due to the way
+active_scaffold looks up files and templates.
+
+
+The following other extensions are recommended:
+  
+  - members
+  - tiny_mce_filter
+  - page_attachments
+  - mailer
+  - sns
+
+ TODO
+------
+
+- the 'conference_roles' view doesn't seem to be created properly in
+  some MySQL installs.  You may need to create it manually.  See
+  migration #34.
+
+- The current set of migrations need refactored to work for a clean install
+- RSpec tests need written
+- Replace ActiveScaffold with custom, better designed forms

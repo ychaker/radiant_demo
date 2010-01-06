@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers
+END
+dashboard_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/dashboard_controller_spec.rb
+END
+conference_roles_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/759091/labs/consite/trunk/conferences/spec/controllers/conference_roles_controller_spec.rb
+END

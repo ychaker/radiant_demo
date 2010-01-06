@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/db/migrate
+END
+002_create_profile_snippet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/759091/labs/consite/trunk/members/db/migrate/002_create_profile_snippet.rb
+END
+001_modify_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/759091/labs/consite/trunk/members/db/migrate/001_modify_users.rb
+END
+20090830113037_create_passwords.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/809323/labs/consite/trunk/members/db/migrate/20090830113037_create_passwords.rb
+END
